@@ -1,116 +1,110 @@
 {
   "main": {
-    "name": "Naz Dumanskyy",
-    "occupation": "Head Instructor @CleverProgrammer",
-    "description": "Full Stack Developer and Lead Instructor at Clever Programmer.",
-    "image": "Naz.jpg",
-    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "naz@cleverprogrammer.com",
-    "phone": "+1 800 NAZ DUMA",
+    "name": "Tarun Meel",
+    "occupation": "Front End Web Developer @AstrumLabsPrivateLimited",
+    "image": "tarun.jpg",
+    "bio": "My name is Tarun Meel, I'm a Full Stack ReactJS Developer. Currently I'm working at ASTURM LABS PRIVATE LIMITED.",
+    "email": "tarunmeel94@gmail.com",
+    "phone": "+91 9079707850",
     "address": {
-      "street": "123 Fake Street",
-      "city": "Beverly Hills",
-      "state": "CA",
-      "zip": "90035"
+      "village": "Kali Pahari",
+      "city": "Jhunjhunu",
+      "state": "Rajasthan",
+      "zip": "333024"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/10z5DypcaLZxZ-cRrATvmWwafQRSKye1r/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
+        "url": "https://www.facebook.com/tarun.meel.54/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nazariydumanskyy/",
+        "url": "https://www.linkedin.com/in/tarun-meel-261116151/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/Tarunmeel94",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
-        "school": "University of Michigan - Dearborn",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "January 2017",
+        "school": "INDIAN INSTITUTE OF INDIA VARANASI (IIT BHU)",
+        "degree": "Bachelor's Degree, Mining",
+        "graduated": "May 2021",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "JavaScript/Python Specialist",
-        "years": "May 2019 - Present",
-        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+        "company": "ASTURM LABS PRIVATE LIMITED",
+        "title": "Front End Web Developer",
+        "years": "May 2021 - Present"
       },
       {
-        "company": "NazaWEb",
-        "title": "Founder / Developer",
-        "years": "Jan 2019 - Present",
-        "description": "Helping businesses showing their best selves to clients."
+        "company": "Readon Soft Tech",
+        "title": "Front End Web Developer Intern",
+        "years": "July 2020 to August 2020",
+        "description": "Worked as a front end web developer to create a UI of a hotel booking website."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "85%"
       },
       {
-        "name": "Python",
-        "level": "95%"
+        "name": "JavaScript",
+        "level": "75%"
       },
       {
         "name": "Git",
         "level": "75%"
       },
       {
-        "name": "JavaScript",
-        "level": "100%"
+        "name": "C++",
+        "level": "70%"
       },
+      
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "30%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "Amazon Clone",
+        "category": "Amazon Clone with ReactJS",
+        "image": "amazon.jpg",
+        "url": "https://amezon-clone-fbbd4.web.app/"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Discord Clone",
+        "category": "Discord Clone built with M.E.R.N stack",
+        "image": "discord.jpg",
+        "url": "https://discord-273a7.web.app/"
+      },
+      {
+        "title": "Online Test Window",
+        "category": "Online Test Window built with ReactJS",
+        "image": "onlineTestWindow.jpg",
+        "url": "https://discord-273a7.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "You cannot change your future, but you can change your habits, and surely your habits will change your future.",
+        "user": "APJ Abdul Kalam"
       }
     ]
   }

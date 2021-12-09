@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "portfolio-b81d7",
+    "staging": "portfolio-b81d7"
+  },
+  "targets": {}
+}
