@@ -432,7 +432,9 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio-wrapper {
    display: flex;
-   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: space-around;
+   /* flex-wrap: wrap; */
 }
 
 /* Portfolio Content */
@@ -769,7 +771,7 @@ call-to-action .button {
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
 }
 .flex-control-paging li a {
     width: 12px;

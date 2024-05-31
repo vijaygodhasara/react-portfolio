@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Tarun Meel",
-    "occupation": "Front End Web Developer @AstrumLabsPrivateLimited",
+    "occupation": "Front End Web Developer @Zextras Group",
     "image": "tarun.jpg",
-    "bio": "My name is Tarun Meel, I'm a Full Stack ReactJS Developer. Currently I'm working at ASTURM LABS PRIVATE LIMITED.",
+    "bio": "My name is Tarun Meel, and I'm a Full Stack ReactJS Developer currently working at Zextras Group. I have experience in both front-end and back-end development, specializing in creating dynamic and efficient web applications. At Zextras Group, I contribute to innovative communication and collaboration solutions, focusing on enhancing user experiences through seamless management interfaces",
     "email": "tarunmeel94@gmail.com",
     "phone": "+91 9079707850",
     "address": {
@@ -12,7 +12,7 @@
       "state": "Rajasthan",
       "zip": "333024"
     },
-    "resumedownload": "https://drive.google.com/file/d/10z5DypcaLZxZ-cRrATvmWwafQRSKye1r/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1sZDdWkexmdTrO_1VSvDWCK588oLXYdTm/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -43,9 +43,22 @@
     ],
     "work": [
       {
+        "company": "ZEXTRAS GROUPS",
+        "title": "Front End Web Developer",
+        "years": "April 2023 - Present",
+        "description": "Zextras Group is a technology company specializing in innovative solutions for communication and collaboration. At Zextras Group, I worked on the Admin Console UI, enabling seamless management of all user accounts using technologies such as React.js, Zustand, Webpack, Git, and RESTful APIs."
+      },
+      {
+        "company": "KRUXONOMY CONSULTING Pvt Ltd (MACHINEHACK)",
+        "title": "Full stack Web Developer",
+        "years": "April 2022 - pril 2023",
+        "description": "I started as a front-end developer and worked on various features. Later, I transitioned to a full-stack developer role and created features called 'blogs' and 'Jobs' at MachineHack. For this project, I used technologies such as TypeScript, Node.js, Express, MongoDB, Redux, and RESTful APIs"
+      },
+      {
         "company": "ASTURM LABS PRIVATE LIMITED",
         "title": "Front End Web Developer",
-        "years": "May 2021 - Present"
+        "years": "May 2021 - April 2022",
+        "description": "Worked on multiple projects using React, Storybook, react-data-table, bootstrap, react-select, react-date-picker, web-pack , Type Script. Developed a User Interface of a mobile application using Ionic framework"
       },
       {
         "company": "Readon Soft Tech",
@@ -64,14 +77,29 @@
         "level": "75%"
       },
       {
-        "name": "Git",
-        "level": "75%"
+        "name": "Node",
+        "level": "50%"
       },
       {
-        "name": "C++",
-        "level": "70%"
+        "name": "HTML",
+        "level": "90%"
       },
-      
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Webpack",
+        "level": "85%"
+      },
+      {
+        "name": "Redux",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
       {
         "name": "MongoDB",
         "level": "30%"
@@ -81,22 +109,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon Clone",
-        "category": "Amazon Clone with ReactJS",
-        "image": "amazon.jpg",
-        "url": "https://amezon-clone-fbbd4.web.app/"
+        "title": "Job post",
+        "category": "I created a job post page at my previous company, using React for the front end and Node.js for the back end.",
+        "image": "job-post.png",
+        "url": "https://machinehack.com/jobs/"
       },
       {
-        "title": "Discord Clone",
-        "category": "Discord Clone built with M.E.R.N stack",
-        "image": "discord.jpg",
-        "url": "https://discord-273a7.web.app/"
-      },
-      {
-        "title": "Online Test Window",
-        "category": "Online Test Window built with ReactJS",
-        "image": "onlineTestWindow.jpg",
-        "url": "https://discord-273a7.web.app/"
+        "title": "Blogs",
+        "category": "I created a blog page at my previous company, using React for the front end and Node.js for the back end.",
+        "image": "blogs.png",
+        "url": "https://machinehack.com/blogs/"
       }
     ]
   },
