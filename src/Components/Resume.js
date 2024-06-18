@@ -16,10 +16,38 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
-      var skills = this.props.data.skills.map(function(skills){
-        var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+
+      var skills = this.props.data.skills.map(function(skill){
+        return <div key={skill.category} className="skills-category">
+              <h2>{skill.category}</h2>
+                <div className="skills-items">
+                  {skill.items.map((item, index) => (
+                    <div key={index} className="chip">
+                      <div key={index} className="chip-content">{item}</div>
+                    </div>
+                  ))}
+                </div>
+              </div>
       })
+      //   const { data } = this.props.data;
+      //   console.log("data", data);
+      //   return (
+      //     <div className="skills-container">
+      //       {data.skills.map((skill) => (
+      //         <div key={skill.name} className="skills-category">
+      //           <h2>{skill.name}</h2>
+      //           <div className="skills-items">
+      //             {skill.items.map((item, index) => (
+      //               <div key={index} className="chip">
+      //                 {item}
+      //               </div>
+      //             ))}
+      //           </div>
+      //         </div>
+      //       ))}
+      //     </div>
+      //   );
+      // };
     }
 
     return (
@@ -61,13 +89,10 @@ class Resume extends Component {
 
          <div className="nine columns main-col">
 
-            <p>{skillmessage}
-            </p>
+           
 
 				<div className="bars">
-				   <ul className="skills">
 					  {skills}
-					</ul>
 				</div>
 			</div>
       </div>

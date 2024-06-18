@@ -1,32 +1,32 @@
 {
   "main": {
-    "name": "Tarun Meel",
-    "occupation": "Front End Web Developer @Zextras Group",
-    "image": "tarun.jpg",
-    "bio": "My name is Tarun Meel, and I'm a Full Stack ReactJS Developer currently working at Zextras Group. I have experience in both front-end and back-end development, specializing in creating dynamic and efficient web applications. At Zextras Group, I contribute to innovative communication and collaboration solutions, focusing on enhancing user experiences through seamless management interfaces",
-    "email": "tarunmeel94@gmail.com",
-    "phone": "+91 9079707850",
+    "name": "Vijay Godhasara",
+    "occupation": "Senior Software Engineer @Zextras Group",
+    "image": "vijay_godhasara.jpeg",
+    "bio": "My name is Vijay Godhasara, and I'm a Senior Software Engineer currently working at Zextras Group. With over 13 years of experience in full-stack development, I have successfully delivered projects involving distributed systems. I excel in leadership, team management, adaptability, and problem-solving. My expertise lies in providing high-quality, robust solutions that consistently meet and exceed client expectations",
+    "email": "vijaygodhasara@gmail.com",
+    "phone": "+91 9978186691",
     "address": {
-      "village": "Kali Pahari",
-      "city": "Jhunjhunu",
-      "state": "Rajasthan",
-      "zip": "333024"
+      "village": "Gota",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "382481"
     },
-    "resumedownload": "https://drive.google.com/file/d/1sZDdWkexmdTrO_1VSvDWCK588oLXYdTm/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1-MD_K6YV4-HBX301nswN42FwS9zEGZCN/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/tarun.meel.54/",
+        "url": "https://www.facebook.com/vijaygodhasara",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tarun-meel-261116151/",
+        "url": "https://www.linkedin.com/in/vijaygodhasara",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/Tarunmeel94",
+        "url": "https://github.com/vijaygodhasara",
         "className": "fa fa-github"
       }
     ]
@@ -35,90 +35,162 @@
     "skillmessage": "",
     "education": [
       {
-        "school": "INDIAN INSTITUTE OF INDIA VARANASI (IIT BHU)",
-        "degree": "Bachelor's Degree, Mining",
-        "graduated": "May 2021",
+        "school": "LDRP Institute of Technology and Research",
+        "degree": "Master of computer application",
+        "graduated": "June 2010",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
         "company": "ZEXTRAS GROUPS",
-        "title": "Front End Web Developer",
-        "years": "April 2023 - Present",
-        "description": "Zextras Group is a technology company specializing in innovative solutions for communication and collaboration. At Zextras Group, I worked on the Admin Console UI, enabling seamless management of all user accounts using technologies such as React.js, Zustand, Webpack, Git, and RESTful APIs."
+        "title": "Senior Software Engineer",
+        "years": "March 2022 - Present",
+        "description": "At Zextras Group, a technology company specializing in communication and collaboration solutions, I oversee development leadership, code review, integration, and QA builds. I facilitate daily scrum meetings and sprint activities, mentor team members, resolve dependencies, develop Admin Panel and Login UI components, define project structures, integrate modules, automate builds, implement TDD practices, deploy SonarQube for code quality, collaborate with the admin team on server setup and deployment, engage with project owners and stakeholders, optimize system performance and tracking, and prepare developer documentation. My efforts are dedicated to enhancing quality, productivity, and efficiency while ensuring clear requirements and stakeholder satisfaction."
       },
       {
-        "company": "KRUXONOMY CONSULTING Pvt Ltd (MACHINEHACK)",
-        "title": "Full stack Web Developer",
-        "years": "April 2022 - pril 2023",
-        "description": "I started as a front-end developer and worked on various features. Later, I transitioned to a full-stack developer role and created features called 'blogs' and 'Jobs' at MachineHack. For this project, I used technologies such as TypeScript, Node.js, Express, MongoDB, Redux, and RESTful APIs"
+        "company": "VNC India Pvt tld",
+        "title": "Senior Software Engineer",
+        "years": "July 2015 - March 2022",
+        "description": "VNC India Pvt Ltd, a product-based company, entrusted me with conducting requirement analysis, designing and architecting products across web, desktop, and mobile platforms. I developed comprehensive test cases for quality assurance, led team management and development processes, conducted rigorous code reviews, orchestrated seamless integrations, and spearheaded project management using Redmine. I facilitated daily scrum meetings, actively participated in sprint activities, and implemented robust Single Sign-On solutions utilizing OpenAM, OpenDJ, and IDP-based Federation Services. Additionally, I innovated by designing and deploying a SAML plugin and connector in OpenIDM to streamline user provisioning. Furthermore, I contributed to enhancing workflow efficiency, bolstering security measures, optimizing user management processes, and ensuring punctual project deliveries through CI/CD pipeline implementations and release activities."
       },
       {
-        "company": "ASTURM LABS PRIVATE LIMITED",
-        "title": "Front End Web Developer",
-        "years": "May 2021 - April 2022",
-        "description": "Worked on multiple projects using React, Storybook, react-data-table, bootstrap, react-select, react-date-picker, web-pack , Type Script. Developed a User Interface of a mobile application using Ionic framework"
-      },
-      {
-        "company": "Readon Soft Tech",
-        "title": "Front End Web Developer Intern",
-        "years": "July 2020 to August 2020",
-        "description": "Worked as a front end web developer to create a UI of a hotel booking website."
+        "company": "Einfochips",
+        "title": "Software Engineer",
+        "years": "July 2010 - July 2015",
+        "description": "At eInfochips, a service-based company, I contributed to multiple projects by conducting requirement analysis, designing and architecting solutions, collaborating with Cisco's technical team, implementing UI and business layers using various tools, working on distributed systems used by over 6000 customers, automating build and patch version processes, mentoring junior developers to ensure high-quality project delivery, and providing product support and maintenance."
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "85%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "75%"
-      },
-      {
-        "name": "Node",
-        "level": "50%"
-      },
-      {
-        "name": "HTML",
-        "level": "90%"
-      },
-      {
-        "name": "CSS",
-        "level": "85%"
-      },
-      {
-        "name": "Webpack",
-        "level": "85%"
-      },
-      {
-        "name": "Redux",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "90%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "30%"
-      }
-    ]
+    {
+      "category": "Frontend Development",
+      "items": [
+        "React.js",
+        "TypeScript",
+        "Angular",
+        "Bootstrap",
+        "Redux",
+        "RxJS",
+        "Cordova",
+        "JavaScript",
+        "HTML",
+        "CSS/SCSS",
+        "Redux",
+        "Zustand",
+        "Jest",
+        "Jasmine",
+        "NightwatchJS",
+        "Selenium",
+        "Babel",
+        "Webpack",
+        "BrowserStack"
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "items": [
+        "Java", 
+        "J2EE", 
+        "Spring",
+        "Node.js", 
+        "Express.js",
+        "Shell scripting", 
+        "Groovy",
+        "SOAP API",
+        "REST API",
+        "Postman",
+        "Hibernate",
+        "MySQL", 
+        "PostgreSQL", 
+        "SQLite", 
+        "Oracle"
+      ]
+    },
+    {
+      "category": "Middleware and Identity Management",
+      "items": [
+        "ForgeRock OpenAM", 
+        "OpenDJ",
+        "OpenIDM",
+        "Zimbra mail server",
+        "Zimbra plugin development"
+      ]
+    },
+    {
+      "category": "Development Methodologies/Tools",
+      "items": [
+        "Agile (Scrum, Kanban)",
+        "Jira", 
+        "Redmine",
+        "npm", 
+        "Maven",
+        "Git (GitHub, GitLab, Bitbucket)",
+        "SonarQube",
+        "Posthog",
+        "Sentry",
+        "JFrog Artifactory"
+      ]
+    },
+    {
+      "category": "Additional Skills",
+      "items": [
+        "Debugging",
+        "Profiling",
+        "Leadership",
+        "Mentoring",
+        "Problem-solving",
+        "Adpatibility",
+        "Collaboration",
+        "AWS (Amazon Web Services)",
+        "Docker", 
+        "Microservices architecture"
+      ]
+    }
+  ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Job post",
-        "category": "I created a job post page at my previous company, using React for the front end and Node.js for the back end.",
-        "image": "job-post.png",
-        "url": "https://machinehack.com/jobs/"
+        "title": "Carbonio",
+        "category": "Carbonio is the open source e-mail and collaboration platform designed for big infrastructures. Advanced features for end-users and sys-admins.",
+        "image": "carbonio.png",
+        "url": "https://zextras.com/carbonio"
       },
       {
-        "title": "Blogs",
-        "category": "I created a blog page at my previous company, using React for the front end and Node.js for the back end.",
-        "image": "blogs.png",
-        "url": "https://machinehack.com/blogs/"
+        "title": "VNCtalk",
+        "category": "VNCtalk is an unique enterprise real time communication solution including chat, video and audio conferencing, screen sharing, voice messaging, file sharing, broadcasts, document collaboration and much more.",
+        "image": "vnctalk.png",
+        "url": "https://vnclagoon.com/products/vnctalk/"
+      },
+      {
+        "title": "VNCchannels",
+        "category": "VNCchannels is your place to store data, to search and retrieve information and to generate knowledge – collaboratively!",
+        "image": "vncchannels.png",
+        "url": "https://vnclagoon.com/products/vncchannels/"
+      },
+      {
+        "title": "VNCmail",
+        "category": "VNCmail offers all relevant mail features such as inbox, folders, filters, signatures, spam filters – in short, everything you are already familiar with from your everyday communication. And the clean VNCmail design makes communication fast and efficient",
+        "image": "vncmail.png",
+        "url": "https://vnclagoon.com/products/vncmail/"
+      },
+      {
+        "title": "VNCtask",
+        "category": "VNCtask offers Create tasks, manage them, get organized – all in one tool",
+        "image": "vnctask.png",
+        "url": "https://vnclagoon.com/products/vnctask/"
+      },
+      {
+        "title": "VNCdirectory",
+        "category": "VNCdirectory Full-blown directory tools for all VNClagoon applications. Integration with third party directory services.",
+        "image": "vncdirectory.png",
+        "url": "https://vnclagoon.com/products/vncdirectory/"
+      },
+      {
+        "title": "Cisco Digital Media Manager",
+        "category": "Manage, schedule, and publish compelling digital media with Cisco Digital Media Manager",
+        "image": "dmm.avif",
+        "url": "https://www.cisco.com/c/en/us/products/video/digital-media-manager/index.html"
       }
     ]
   },
